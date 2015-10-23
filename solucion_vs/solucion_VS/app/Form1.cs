@@ -20,5 +20,10 @@ namespace app
         {
             MessageBox.Show("Holas");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //comentario
+        }
     }
 }

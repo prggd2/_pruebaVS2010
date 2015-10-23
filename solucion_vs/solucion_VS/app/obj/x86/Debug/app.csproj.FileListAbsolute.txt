@@ -7,3 +7,5 @@ C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\ResGen.read.1.tlog
 C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\ResGen.write.1.tlog
 C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.exe
 C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.pdb
+C:\__ejemplo2\solucion_vs\solucion_VS\app\obj\x86\Debug\app.exe
+C:\__ejemplo2\solucion_vs\solucion_VS\app\obj\x86\Debug\app.pdb
