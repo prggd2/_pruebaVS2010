@@ -1,0 +1,9 @@
+C:\__ejemplo\solucion_vs\solucion_VS\app\bin\Debug\app.exe
+C:\__ejemplo\solucion_vs\solucion_VS\app\bin\Debug\app.pdb
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.Form1.resources
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.Properties.Resources.resources
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\ResGen.read.1.tlog
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\ResGen.write.1.tlog
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.exe
+C:\__ejemplo\solucion_vs\solucion_VS\app\obj\x86\Debug\app.pdb
